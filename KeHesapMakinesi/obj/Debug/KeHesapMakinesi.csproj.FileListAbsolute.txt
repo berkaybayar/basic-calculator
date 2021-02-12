@@ -1,9 +1,0 @@
-C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\bin\Debug\KeHesapMakinesi.exe
-C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\bin\Debug\KeHesapMakinesi.pdb
-C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\obj\Debug\KeHesapMakinesi.csprojAssemblyReference.cache
-C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\obj\Debug\KeHesapMakinesi.Properties.Resources.resources
-C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\obj\Debug\KeHesapMakinesi.csproj.GenerateResource.cache
-C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\obj\Debug\KeHesapMakinesi.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\obj\Debug\KeHesapMakinesi.exe
-C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\obj\Debug\KeHesapMakinesi.pdb
-C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\obj\Debug\KeHesapMakinesi.HesapMak.resources
