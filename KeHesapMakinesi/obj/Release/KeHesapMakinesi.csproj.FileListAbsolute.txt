@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\bin\Release\KeHesapMakinesi.exe
+C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\bin\Release\KeHesapMakinesi.pdb
+C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\obj\Release\KeHesapMakinesi.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\obj\Release\KeHesapMakinesi.HesapMak.resources
+C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\obj\Release\KeHesapMakinesi.Properties.Resources.resources
+C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\obj\Release\KeHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\obj\Release\KeHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\obj\Release\KeHesapMakinesi.exe
+C:\Users\Administrator\source\repos\KeHesapMakinesi\KeHesapMakinesi\obj\Release\KeHesapMakinesi.pdb
